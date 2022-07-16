@@ -46,6 +46,21 @@ I’m a Full Stack Developer who is passionate about making error-free websites 
 
 <br>
 
-![RixetBD's GitHub stats](https://github-readme-stats.vercel.app/api?username=rixetbd&show_icons=true&theme=radical)
+# Github Statistics
+
+![Visitor](https://komarev.com/ghpvc/?username=rixetbdz&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rixetbd)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
+![Last-commit](https://img.shields.io/github/last-commit/rixetbd/rixetbd?style=flat-square&color=blueviolet)
+
+
+<div>
+  <a href="https://github.com/rixetbd">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rixetbd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixetbd&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rixetbd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<img src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+

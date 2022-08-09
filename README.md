@@ -56,8 +56,8 @@ I’m a Full Stack Developer who is passionate about making error-free websites 
 
 <div>
   <a href="https://github.com/rixetbd">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rixetbd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixetbd&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rixetbd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixetbd&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rixetbd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>

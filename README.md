@@ -14,7 +14,7 @@ I am strategic, goal-oriented, and always work with an end goal in mind. Current
 
 I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include Laravel, ReactJS, JavaScript as well as PHP.
 
-I like to explore new technologies and develop software solutions and quick hacks. I’m currently learning React.js, React Native, Node.js, Next.js, MongoDB , React Native and Flutter. I’m looking to collaborate on Laravel and MERN Stack projects with other passionate developers. I really love to travel and explore new things and new places in my free time.
+I like to explore new technologies and develop software solutions and quick hacks. I’m currently learning React.js, React Native, Node.js, Next.js, MongoDB , React Native and Flutter. I’m looking to collaborate on Laravel and MERN Stack projects with other passionate developers. I really love to travel and explore new things and new places in my free time. 
 
 ### <a>👨‍💻 Skills & Experiance:</a>
 

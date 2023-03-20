@@ -4,7 +4,6 @@
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
-📫 How to reach me ? <br>
 
 ![Profile views](https://gpvc.arturio.dev/rixetbd)  
 

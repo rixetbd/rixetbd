@@ -1,11 +1,7 @@
-![👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge](https://i.ibb.co/SN7JKkw/Banner.jpg)
-
 ### Hi, I'm Muhammad Rabiul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
-
-![Profile views](https://gpvc.arturio.dev/rixetbd)  
 
 I’m a Laravel Developer who is passionate about making error-free websites. A self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm a working on 6amTech as a Laravel Developer. I love to work with new technologies and developing web applications like Laravel Framework. And love to solve real-world problems. 
 
@@ -61,8 +57,3 @@ I pride myself on doing quality work and maintain excellent communication. I rea
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rixetbd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixetbd&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=rixetbd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<img src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
-
